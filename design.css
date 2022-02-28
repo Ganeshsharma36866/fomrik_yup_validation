@@ -1,0 +1,13 @@
+.div {
+    padding-top: 50px;
+    width: 350px;
+    justify-content: center;
+}
+.div1 {
+    align-items: center;
+    justify-content: center;
+}
+.contain {
+    padding-top: 40px;
+}
+
